@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "892e4aff-457e-434a-9a77-ba27955fe676",
+		"name": "API Pokemon",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36230445"
+	},
+	"item": [
+		{
+			"name": "LocalizaPokemon",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "NãoLocaliza(erro)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Endpoint FalhoLocaliza",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
